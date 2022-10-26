@@ -1,2 +1,2 @@
-# Instagram-Stories-UI
-This project is built using tailwindcss.
+# Instagram Stories UI
+This project is created for the sole purpose of learning.
